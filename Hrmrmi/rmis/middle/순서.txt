@@ -1,0 +1,4 @@
+java 파일만 있는 상태에서 
+//javac -d . *.java
+//start rmiregistry 
+//java kr.co.infopub.chapter.rmi.RmiMiddleServer

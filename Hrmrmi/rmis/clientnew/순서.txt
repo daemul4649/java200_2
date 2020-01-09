@@ -1,0 +1,4 @@
+java 파일만 있는 상태에서 
+//javac -d . *.java
+//이미지 준비 디렉토리에 있는 view와 image를  패키지에 알맞게 옮긴다.
+//java kr.co.infopub.chapter.rmi.client.Main
